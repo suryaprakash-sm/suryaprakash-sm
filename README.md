@@ -1,3 +1,4 @@
+## Hi there, I'm S.M SURYAPRAKASH
 🏅 I recently completed my Data Science studies from Great Learning.
 
 🎓 I have completed my BE from R.M.K Engineering College with aggregate CGPA of 8.92 in Mechanical Engineering.
