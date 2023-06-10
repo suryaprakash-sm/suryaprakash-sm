@@ -16,6 +16,8 @@
 <a href="https://www.linkedin.com/in/suryaprakash-s-m/"><img align="left" alt="Suryaprakash S.M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://github.com/suryaprakash-sm/suryaprakash-sm"><img align="left" alt="Suryaparakash S.M" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="mailto:suryamanikandan2407@gmail.com"><img align="left" alt="Suryaprakash S.M | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" /></a>
+<br />
+
 
 
 ### Languages and Tools:
